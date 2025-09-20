@@ -1,13 +1,15 @@
 # 🌤️ Weather App
 
-![principal1](./screen/1.png)
-![principal2](./screen/2.png)
-![principal3](./screen/3.png)
-![principal4](./screen/4.png)
-
-
-
 Una aplicación móvil moderna de pronóstico del clima desarrollada con React Native y Expo. Obtén información meteorológica en tiempo real basada en tu ubicación actual con una interfaz intuitiva y elegante.
+
+## 📸 Capturas de pantalla
+
+<div align="center">
+  <img src="./screen/1.png" alt="Pantalla Principal" width="250"/>
+  <img src="./screen/2.png" alt="Clima Detallado" width="250"/>
+  <img src="./screen/3.png" alt="Pronóstico" width="250"/>
+  <img src="./screen/4.png" alt="Configuraciones" width="250"/>
+</div>
 
 ## ✨ Características
 
@@ -252,23 +254,13 @@ npx expo start --clear
 4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
 5. Abre un Pull Request
 
-## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👏 Agradecimientos
-
-- [OpenWeatherMap](https://openweathermap.org) por la API del clima
-- [Expo](https://expo.dev) por el framework de desarrollo
-- Comunidad de React Native por el soporte continuo
 
 ## 📞 Soporte
 
 Si tienes alguna pregunta o problema:
 
-- 📧 Email: tu-email@ejemplo.com
-- 💬 Discord: [Comunidad Expo](https://chat.expo.dev)
-- 🐛 Issues: [GitHub Issues](https://github.com/tu-usuario/weather-app/issues)
+- 📧 Email: elgranjm3000@gmail.com
 
 ---
 
