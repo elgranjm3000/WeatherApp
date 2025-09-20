@@ -85,7 +85,7 @@ npx expo start --web
 ## 📱 Pantallas de la aplicación
 
 ### 🏠 Pantalla Principal (`app/(tabs)/index.tsx`)
-![principal](./screenshots/1.png)
+![principal](./screen/1.png)
 - **Bienvenida**: Mensaje de bienvenida con animación de saludo
 - **Guía paso a paso**: 
   - Paso 1: Instrucciones para editar y ver cambios
