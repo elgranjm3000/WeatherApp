@@ -1,5 +1,12 @@
 # 🌤️ Weather App
 
+![principal1](./screen/1.png)
+![principal2](./screen/2.png)
+![principal3](./screen/3.png)
+![principal4](./screen/4.png)
+
+
+
 Una aplicación móvil moderna de pronóstico del clima desarrollada con React Native y Expo. Obtén información meteorológica en tiempo real basada en tu ubicación actual con una interfaz intuitiva y elegante.
 
 ## ✨ Características
@@ -85,7 +92,6 @@ npx expo start --web
 ## 📱 Pantallas de la aplicación
 
 ### 🏠 Pantalla Principal (`app/(tabs)/index.tsx`)
-![principal](./screen/1.png)
 - **Bienvenida**: Mensaje de bienvenida con animación de saludo
 - **Guía paso a paso**: 
   - Paso 1: Instrucciones para editar y ver cambios
